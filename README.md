@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**NedzmijaMuminovic/NedzmijaMuminovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a third-year Software Engineering student at the Faculty of Information Technologies.
 
-Here are some ideas to get you started:
+💻 Currently, I'm diving into the world of C# (ASP.NET) and Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 While I may not have loads of experience just yet, I'm open to internships and job opportunities to gain more hands-on knowledge and skills.
+
+Let's connect and learn together! Feel free to explore my projects and drop me a message. 😊
+
+📫 Reach me at nedzmijamuminovic2001@gmail.com
+
+🌐 Connect with me on https://www.linkedin.com/in/nedzmijamuminovic/
