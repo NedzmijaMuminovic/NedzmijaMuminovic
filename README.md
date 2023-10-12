@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-🎓 I'm a third-year Software Engineering student at the Faculty of Information Technologies.
+🎓 I'm a fourth-year Software Engineering student at the Faculty of Information Technologies.
 
 💻 Currently, I'm diving into the world of .NET and Angular.
 
