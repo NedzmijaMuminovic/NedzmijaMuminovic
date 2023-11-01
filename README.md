@@ -8,6 +8,6 @@
 
 😊 Let's connect and learn together! Feel free to explore my projects and drop me a message.
 
-✉️ Reach me at nedzmijamuminovic2001@gmail.com
+✉️ Reach me at [nedzmijamuminovic2001@gmail.com](mailto:nedzmijamuminovic2001@gmail.com)
 
 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nedzmijamuminovic/)
