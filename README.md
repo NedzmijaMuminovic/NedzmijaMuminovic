@@ -10,4 +10,4 @@
 
 ✉️ Reach me at nedzmijamuminovic2001@gmail.com
 
-🌐 Connect with me on https://www.linkedin.com/in/nedzmijamuminovic/
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nedzmijamuminovic/)
